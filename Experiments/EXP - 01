@@ -1,1 +1,30 @@
+PROCEDURE
 
+• Open Kali Linux
+• Open terminal
+• rm command
+1. touch sample1.txt -- press Enter
+2. ls -- press Enter
+3. touch sample2.txt -- press Enter
+4. ls -- press Enter
+5. touch sample3.txt -- press Enter
+6. ls -- press Enter
+7. touch sample4.txt -- press Enter
+8. ls -- press Enter
+9. touch sample5.txt -- press Enter
+10. ls -- press Enter
+11. rm sample5.txt -- press Enter
+• tree command
+1. tree -- press Enter
+2. mkdir EH -- press Enter
+3. cd EH -- press Enter
+4. touch file1.txt -- press Enter
+5. tree -- press Enter
+6. mkdir Unit1 -- press Enter
+7. cd Unit1 -- press Enter
+8. touch topic1.txt -- press Enter
+9. touch topic2.txt -- press Enter
+10. touch topic3.txt -- press Enter
+11. touch topic4.txt -- press Enter
+12. touch topic5.txt -- press Enter
+13. tree -- press Enter
