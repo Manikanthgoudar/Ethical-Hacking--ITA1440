@@ -1,0 +1,13 @@
+PROCEDURE 
+
+• Open Kali Linux
+• Open terminal
+• uptime command
+1. uptime -- press Enter
+• date command
+1. date -- press Enter
+• mv command
+1. touch EH.txt -- press Enter
+2. ls -- press Enter
+3. mv EH.txt EHacking.txt -- press Enter
+4. ls -- press Enter
